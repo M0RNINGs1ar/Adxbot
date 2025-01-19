@@ -1,0 +1,4 @@
+# Use this file to provide arguments for Haxe.
+--main Main
+--interp
+--dce full
