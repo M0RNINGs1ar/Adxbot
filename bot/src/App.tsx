@@ -12,7 +12,7 @@ declare global {
 
 function App() {
   const AdController = window.Adsgram.init({
-    blockId: "int-7307",
+    blockId: "int-7341",
     debug: false,
     debugBannerType: "FullscreenMedia"
   });
